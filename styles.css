@@ -1,1 +1,45 @@
 /* add your CSS here */
+body {
+	font-size: 16px;
+}
+
+h3 {
+	margin: 0;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	font-size: 20px;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+.list-category {
+	font-weight: bold;
+}
+
+#fact {
+	margin: 10px 0px;
+	font-style: italic;
+}
+
+#main-section {
+	width: 300px; 
+	border: solid .1em lightgray; 
+	padding: 5px 10px 5px 10px; 
+	margin: 0;
+	font-size: 13px;
+	-webkit-box-shadow: 6px 6px 4px 0px rgba(0,0,0,0.18);
+	-moz-box-shadow: 6px 6px 4px 0px rgba(0,0,0,0.18);
+	box-shadow: 6px 6px 4px 0px rgba(0,0,0,0.18);
+}
+
+#info {
+	border: solid .1em lightgray;
+	padding: 5px 10px 5px 10px;
+	margin: 0px;
+}
+
+#main-image {
+	padding-bottom: 10px;
+}
